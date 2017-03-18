@@ -1,0 +1,25 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "fdb305c1-15e0-4f83-baef-45ac90dc8f92",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "fdb305c1-15e0-4f83-baef-45ac90dc8f92" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "fdb305c1-15e0-4f83-baef-45ac90dc8f92" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "C80D9834-82CB-447B-8B05-E0252F3957B0",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "fdb305c1-15e0-4f83-baef-45ac90dc8f92" : "i.abdussabur\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "VisualSFX",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "VisualSFX\/VisualSFX.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/svn.digipen.edu\/users\/i.abdussabur",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "fdb305c1-15e0-4f83-baef-45ac90dc8f92"
+    }
+  ]
+}
